@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
     const counters = document.querySelectorAll(".counter")
-    const maxCounts = [1000, 5000, 3000] // Max Followers //
+    const maxCounts = [1800, 59500, 38000] // Max Followers //
   
     counters.forEach((counter, index) => {
       let count = 0
